@@ -1,4 +1,4 @@
-# RestAssuredSerenityCucumber Framework
+# E2E API Testing framework built using Java, RestAssured, Maven and TestNG
 
 This is a E2E Rest API testing framework for sample endpoints available in https://restful-booker.herokuapp.com/apidoc/index.html, 
 The published APIs represent a booking system where user can create, update and cancel bookings.
