@@ -44,7 +44,7 @@ src
       + logback.xml               for info/debug logs
 ```
 ### Design Patterns and Standards
-This framework has followed some on industry using standards and patterns like singleton, builder and oops.
+This framework has followed some of industry using standards and patterns like singleton, builder and oops.
 
 Following instructions will help you running the project. First, clone this project locally on your machine from the master branch.
 
